@@ -6,8 +6,6 @@
 !.travis.yml
 
 # bundler cache
-_site
-vendor
 
 # rubygem
 *.gem
