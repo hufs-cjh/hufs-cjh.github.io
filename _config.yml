@@ -1,5 +1,5 @@
 # The Site Configuration
-destination: ./build
+destination: ./_site
 
 # Import the theme
 theme: jekyll-theme-chirpy
